@@ -2,7 +2,9 @@
 Thread usage capture in Linux with minimal commands (No ps)
 
 ## Usage
+```bash
 thread-usage.sh <PID> <Number of Usage Dumps> <Time Interval Between Two Dumps in Seconds>
+```
 Ex: thread-usage.sh 1234 5 1
 
 ## When to Use
